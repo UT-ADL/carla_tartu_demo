@@ -28,5 +28,5 @@ From the ROOT/PythonAPI run:
 
  ## Using UT Lexus with Carla
 
-You might want to also check out the [Lexus](https://github.com/UT-ADL/carla_lexus.git) model from University Tartu.
+You might also want to check out the [Lexus](https://github.com/UT-ADL/carla_lexus.git) model from University Tartu.
 
