@@ -2,7 +2,7 @@
  
  ## Adding Tartu demo track to prebuilt Carla
 
-- Download the [carla_tartu_demo-0.9.15.tar.gz](https://github.com/UT-ADL/carla_tartu_demo/archive/refs/tags/0.9.15.tar.gz) map.
+- Download the [tartu_demo.tar.gz](https://github.com/UT-ADL/carla_tartu_demo/releases/download/v0.9.15/tartu_demo.tar.gz) map.
   
 - Copy carla_tartu_demo-0.9.15.tar.gz inside the import folder under Carla's ROOT directory.
 
