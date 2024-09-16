@@ -8,7 +8,7 @@
 
 - Run ./ImportAssets.sh from the ROOT directory.
 
-- You can now delete the carla_tartu_demo-0.9.15.tar.gz file from the import folder.
+- You can now delete the tartu_demo.tar.gz file from the import folder.
 
  ## Running Tartu demo track with traffic on prebuilt Carla
 
