@@ -4,9 +4,9 @@
 
 - Download the [CARLA 0.9.15](https://github.com/carla-simulator/carla/releases/tag/0.9.15).
 
-- Download the [tartu_demo.tar.gz](https://github.com/UT-ADL/carla_tartu_demo/releases/download/v0.9.15/tartu_demo.tar.gz) map.
+- Download the [tartu_demo_v0.9.15.1.tar.gz](https://github.com/UT-ADL/carla_tartu_demo/releases/download/v0.9.15.1/tartu_demo_v0.9.15.1.tar.gz) map.
   
-- Copy tartu_demo.tar.gz inside the import folder under Carla's ROOT directory.
+- Copy tartu_demo_v0.9.15.1.tar.gz inside the import folder under Carla's ROOT directory.
 
 - Run ./ImportAssets.sh from the ROOT directory.
 
