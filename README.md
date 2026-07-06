@@ -5,6 +5,8 @@
 - Download the [CARLA 0.9.16](https://github.com/carla-simulator/carla/releases/tag/0.9.16).
 
 - Download the [tartu_demo_v0.9.16](https://github.com/UT-ADL/carla_tartu_demo/releases/download/v0.9.16/tartu_demo_v0.9.16.tar.gz) map.
+
+  > **Note:** The 0.9.16 map is also compatible with CARLA 0.9.15.
   
 - Copy tartu_demo_v0.9.16.tar.gz inside the import folder under Carla's ROOT directory.
 
