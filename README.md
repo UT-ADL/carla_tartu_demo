@@ -1,4 +1,8 @@
 # Tutorial
+
+
+
+[![Watch the video](https://i.imgur.com/UfALNOn.jpeg)](https://www.youtube.com/watch?v=EOHyNm4mtdI)
  
  ## Adding Tartu demo track to prebuilt Carla
 
